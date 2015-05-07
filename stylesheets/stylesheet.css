@@ -20,7 +20,9 @@ body {
 
 h1, h2 {
   font-family: 'bigsquaredotsregular';
-  font-size: 200%;
+  font-size: 480%;
+  line-height: 68px;
+
 }
 
 
